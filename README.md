@@ -2,12 +2,6 @@
 
 This repository contains the replication package and dataset of the 30MHz case study on web performance. Using this repo, one can generate performance benchmark results for any web page, or replicate the results of the case study, as well as its statistical analysis.
 
-This study has been designed, developed, and reported by the following investigators:
-
-- [Jasper van Riet](https://jaspervanriet.nl) (Vrije Universiteit Amsterdam, 30MHz)
-- [Ivano Malavolta](https://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam)
-- [Flavia Paganelli](https://nl.linkedin.com/in/flaviapaganelli) (30MHz)
-
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, performance benchmarking tools, and analysis scripts produced during the study are available below.
 
@@ -15,15 +9,7 @@ The full dataset including raw data, performance benchmarking tools, and analysi
 If the dataset or the results of our study are helping your research, consider to cite our study as follows, thanks!
 
 ```
-@inproceedings{ICSME_2020,
-  author    = {Jasper van Riet and Flavia Paganelli and Ivano Malavolta},
-  title     = {{From 6.2 to 0.15 seconds - an Industrial Case Study on Mobile Web Performance}},
-  booktitle = {{IEEE} International Conference on Software Maintenance and Evolution,
-               {(ICSME)}},
-  pages     = {to appear},
-  year      = {2020},
-  url       = {https://github.com/S2-group/ICSME-2020-replication-package/blob/master/ICSME_2020.pdf}
-}
+TODO
 ```
 
 ### Overview of the replication package
