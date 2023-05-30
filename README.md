@@ -6,10 +6,29 @@ For any information, interested researchers can contact us by sending an email t
 The full dataset including raw data, performance benchmarking tools, and analysis scripts produced during the study are available below.
 
 ## How to cite the dataset
-If the dataset or the results of our study are helping your research, consider to cite our study as follows, thanks!
+If the dataset or the results of our study are helping your research, consider to cite our studies as follows, thanks!
 
 ```
-TODO
+@article{JSS_2023_30MHZ,
+  title = {{Optimise Along the Way: An Industrial Case Study on Web Performance}},
+  journal = {Journal of Systems and Software},
+  volume = {198},
+  pages = {111593},
+  year = {2023},
+  issn = {0164-1212},
+  url = {http://www.ivanomalavolta.com/files/papers/JSS_2023_30MHZ.pdf},
+  author = {Jasper van Riet and Ivano Malavolta and Taher Ahmed Ghaleb},
+}
+
+@inproceedings{ICSME_2020,
+  author    = {Jasper van Riet and Flavia Paganelli and Ivano Malavolta},
+  title     = {{From 6.2 to 0.15 seconds - an Industrial Case Study on Mobile Web Performance}},
+  booktitle={2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
+  pages     = {746-755},
+  year      = {2020},
+  doi={10.1109/ICSME46990.2020.00084},
+  url       = {http://www.ivanomalavolta.com/files/papers/ICSME_2020.pdf}
+}
 ```
 
 ### Overview of the replication package
